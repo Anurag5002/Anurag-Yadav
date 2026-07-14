@@ -1,0 +1,19 @@
+Name: Anurag Yadav
+
+Education:
+B.Tech Computer Science
+
+Skills:
+Python
+Machine Learning
+Git
+
+Projects:
+Resume Builder
+Customer Churn Prediction
+
+Experience:
+Intern at ABC Technologies
+
+Certifications:
+AWS Cloud Practitioner

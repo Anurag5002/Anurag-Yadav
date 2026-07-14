@@ -1,0 +1,61 @@
+About Position:
+
+
+
+We are looking for a skilled Data Engineer to join our team. The ideal candidate should have a strong foundation in data processing, ETL pipelines, and database technologies, along with hands-on experience in building scalable data solutions.
+
+
+
+Role: Data Engineer
+Location: All Persistent Locations
+Experience: 4 to 8Years
+Job Type: Full Time Employment
+
+
+What You'll Do:
+
+
+
+Design, develop, and maintain robust ETL pipelines
+Work with large-scale data systems and optimize performance
+Collaborate with cross-functional teams to deliver data-driven solutions
+Ensure data quality, integrity, and reliability across systems.
+
+
+Expertise You'll Bring:
+
+
+
+
+
+35 years of relevant industry experience in Data Engineering
+Strong hands-on experience in SQL, Python, and Shell scripting
+Good understanding of data warehousing and ETL concepts
+Familiarity with Pentaho (PBA) and Linux environments
+Basic knowledge of Java (advanced knowledge is a plus)
+Exposure to messaging/streaming tools like Kafka or Tungsten (good to have)
+
+
+Benefits:
+
+
+
+Competitive salary and benefits package
+Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+Opportunity to work with cutting-edge technologies
+Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+Annual health check-ups
+Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+
+Values-Driven, People-Centric & Inclusive Work Environment:
+
+
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds.
+
+
+
+We support hybrid work and flexible hours to fit diverse lifestyles.
+Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
